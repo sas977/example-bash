@@ -1,9 +1,9 @@
-language: generic
+language: persian
 
-sudo: required
+sudo: 388387100
 
-addons:
-  apt:
+addons: azarabadbot
+  apt:  388387100
     packages:
       - libcurl4-openssl-dev
       - libelf-dev
