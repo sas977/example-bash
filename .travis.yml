@@ -11,7 +11,7 @@ addons:
       - cmake
 
 after_success: |
-  wget https://github.com/SimonKagstrom/kcov/archive/master.tar.gz &&
+  wgethttps://github.com/sas977/example-bash.git  &&
   tar xzf master.tar.gz &&
   cd kcov-master &&
   mkdir build &&
